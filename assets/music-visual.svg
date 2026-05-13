@@ -1,17 +1,63 @@
-<svg width="1000" height="1100" viewBox="0 0 1000 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="1100" fill="#191919"/>
-  <circle cx="754" cy="220" r="142" fill="#FF4F2E"/>
-  <circle cx="198" cy="872" r="112" fill="#2ED3B7"/>
-  <rect x="124" y="148" width="752" height="804" rx="8" fill="#F8F4EC"/>
-  <rect x="176" y="210" width="648" height="420" rx="8" fill="#141414"/>
-  <path d="M235 553L374 398L486 515L597 348L766 553H235Z" fill="#FF4F2E"/>
-  <circle cx="326" cy="322" r="54" fill="#2ED3B7"/>
-  <rect x="176" y="690" width="648" height="24" rx="12" fill="#141414"/>
-  <rect x="176" y="754" width="324" height="24" rx="12" fill="#141414"/>
-  <rect x="176" y="820" width="648" height="52" rx="26" fill="#FF4F2E"/>
-  <path d="M275 846H724" stroke="#F8F4EC" stroke-width="10" stroke-linecap="round"/>
-  <path d="M308 100C308 100 308 265 308 353C308 424 245 425 231 391C216 354 254 326 308 342" stroke="#2ED3B7" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M644 784V196L769 244V313L644 267" stroke="#141414" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M92 527C139 500 175 500 222 527C269 554 305 554 352 527" stroke="#FF4F2E" stroke-width="20" stroke-linecap="round"/>
-  <path d="M648 996C695 969 731 969 778 996C825 1023 861 1023 908 996" stroke="#2ED3B7" stroke-width="20" stroke-linecap="round"/>
+svg width="1000" height="1100" viewBox="0 0 1000 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="1100" fill="#17120F"/>
+  <path d="M0 0H1000V1100H0V0Z" fill="url(#paperPattern)" opacity="0.58"/>
+  <circle cx="785" cy="212" r="138" fill="#B8422B"/>
+  <circle cx="194" cy="894" r="118" fill="#184C57"/>
+  <path d="M112 940C164 909 204 909 256 940C308 971 348 971 400 940" stroke="#39C8C1" stroke-width="18" stroke-linecap="round"/>
+  <path d="M636 966C688 936 728 936 780 966C832 996 872 996 924 966" stroke="#C49A45" stroke-width="18" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+        <rect x="102" y="138" width="796" height="834" rx="4" fill="#F4EAD8"/>
+        <rect x="126" y="164" width="748" height="782" rx="2" fill="#FFF8EA"/>
+        <path d="M156 214H844" stroke="#C49A45" stroke-width="6"/>
+        <path d="M156 896H844" stroke="#C49A45" stroke-width="6"/>
+  </g>
+
+  <rect x="178" y="248" width="644" height="478" rx="6" fill="#211915"/>
+  <path d="M224 656L346 512L456 628L548 480L768 656H224Z" fill="#B8422B"/>
+  <path d="M230 654C294 618 342 618 406 654C470 690 518 690 582 654" stroke="#F4EAD8" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+
+  <g aria-label="shamisen">
+        <path d="M284 182C284 182 284 404 284 525C284 607 211 619 191 571C171 523 216 483 284 507" stroke="#184C57" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M318 412L412 458L366 550L272 504L318 412Z" fill="#F4EAD8" stroke="#211915" stroke-width="16" stroke-linejoin="round"/>
+        <path d="M318 412L412 458M294 459L388 506M272 504L366 550" stroke="#211915" stroke-width="8" stroke-linecap="round"/>
+        <path d="M284 184V536" stroke="#39C8C1" stroke-width="14" stroke-linecap="round"/>
+        <path d="M246 548C270 520 298 514 330 530" stroke="#211915" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <g aria-label="drums">
+        <ellipse cx="626" cy="492" rx="104" ry="44" fill="#F4EAD8" stroke="#211915" stroke-width="18"/>
+        <path d="M522 492V606C522 630 568 650 626 650C684 650 730 630 730 606V492" fill="#B8422B"/>
+        <path d="M522 492V606C522 630 568 650 626 650C684 650 730 630 730 606V492" stroke="#211915" stroke-width="18" stroke-linejoin="round"/>
+        <ellipse cx="626" cy="492" rx="104" ry="44" fill="#FFF8EA" stroke="#211915" stroke-width="18"/>
+        <circle cx="736" cy="404" r="50" fill="#C49A45" stroke="#211915" stroke-width="16"/>
+        <path d="M684 392L782 363" stroke="#211915" stroke-width="12" stroke-linecap="round"/>
+        <path d="M568 432L498 354M686 430L766 340" stroke="#F4EAD8" stroke-width="14" stroke-linecap="round"/>
+        <path d="M498 354L466 316M766 340L800 304" stroke="#C49A45" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <g aria-label="bass guitar">
+        <path d="M706 718C734 696 778 706 788 746C797 785 762 819 724 804C704 832 655 820 650 778C646 739 680 714 706 718Z" fill="#184C57" stroke="#211915" stroke-width="16" stroke-linejoin="round"/>
+        <path d="M756 716L842 588" stroke="#211915" stroke-width="28" stroke-linecap="round"/>
+        <path d="M840 588L880 528" stroke="#39C8C1" stroke-width="18" stroke-linecap="round"/>
+        <path d="M862 536L918 546M844 562L898 588" stroke="#39C8C1" stroke-width="10" stroke-linecap="round"/>
+        <circle cx="712" cy="760" r="18" fill="#F4EAD8"/>
+        <path d="M686 796L768 738" stroke="#F4EAD8" stroke-width="8" stroke-linecap="round"/>
+        <path d="M775 690L858 568M793 704L876 582" stroke="#F4EAD8" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <rect x="166" y="790" width="668" height="52" rx="4" fill="#211915"/>
+  <rect x="202" y="808" width="480" height="16" rx="8" fill="#F4EAD8"/>
+  <rect x="166" y="862" width="398" height="26" rx="13" fill="#B8422B"/>
+  <path d="M212 875H496" stroke="#FFF8EA" stroke-width="8" stroke-linecap="round"/>
+
+  <defs>
+        <pattern id="paperPattern" width="48" height="48" patternUnits="userSpaceOnUse">
+                <path d="M0 0H48V48H0V0Z" fill="#17120F"/>
+                <path d="M12 10H34L12 32V10Z" fill="#F4EAD8" opacity="0.05"/>
+        </pattern>
+        <filter id="shadow" x="82" y="118" width="846" height="884" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                <feDropShadow dx="22" dy="22" stdDeviation="0" flood-color="#B8422B" flood-opacity="0.88"/>
+        </filter>
+  </defs>
 </svg>
